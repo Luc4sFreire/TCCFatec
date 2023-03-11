@@ -1,0 +1,17 @@
+primeiros passos: 
+
+home 
+como usar nossos recursos
+quem somos 
+sugestões
+cadastro/login (design e programação)
+
+analise dos recursos de usuario*
+- gratuito: admissão e demissão de funcionários/ analise de lucros mensais/ catalogação de filiais/ 
+gerenciamento de funcionários/ geração de dashboards/ resgitro de caixa e estoque/ 
+- paga: analise de lucros por período/ catalogação de empresas regionais/ 
+envio de email de admissão e desligamento p/ funcionários/ calendário de dívidas/ divisão por ramos (categoria de empresa)
+
+
+-> introdução de dashboards em sites
+-> mapas dentro de sites
